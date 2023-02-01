@@ -10,10 +10,10 @@ public class Square_Rectangle {
 
         System.out.print("Enter the Length: ");
         int length = input.nextInt();
-        System.out.print("Enter the Widht: ");
-        int widht = input.nextInt();
+        System.out.print("Enter the Width: ");
+        int width = input.nextInt();
 
-        if(length==widht){
+        if(length==width){
             System.out.println("Its a Square");
         }
         else {
